@@ -73,6 +73,7 @@
   min-height: 757px;
   background-size: cover;
   background-position: center;
+  background-repeat: no-repeat;
   color: white;
   padding: 165px 50px 50px;
   justify-content: space-between;
@@ -154,7 +155,7 @@
   font-size: 40px;
   font-weight: bold;
   text-transform: uppercase;
-  margin: 0 0 27px 40px;
+  margin: 0 891px 27px 40px;
 }
 
 .lots__card-list {
