@@ -201,6 +201,7 @@
   text-decoration: underline solid;
   z-index: 2;
   letter-spacing: 0;
+  text-wrap: none;
 }
 
 .card__text {
