@@ -9,6 +9,10 @@
   box-sizing: border-box;
 }
 
+.header__menu {
+  justify-self: start;
+}
+
 .header__links-list {
   display: flex;
   gap: 32px;
@@ -73,7 +77,6 @@
   padding: 165px 50px 50px;
   justify-content: space-between;
 }
-
 
 .overlay {
   position: absolute;
@@ -151,7 +154,7 @@
   font-size: 40px;
   font-weight: bold;
   text-transform: uppercase;
-  margin: 0 0 27px 40px; 
+  margin: 0 0 27px 40px;
 }
 
 .lots__card-list {
@@ -251,6 +254,7 @@
   justify-content: center;
   align-items: center;
   margin-top: 0;
+  margin-left: 70px;
 }
 
 .about__logo-image {
